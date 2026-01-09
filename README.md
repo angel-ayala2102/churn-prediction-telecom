@@ -48,7 +48,11 @@ Multiple classification models were trained and compared, including:
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Gradient Boosting–based models
+- Gradient Boosting (scikit-learn)
+- K-Nearest Neighbors (KNN)
+- XGBoost
+- LightGBM
+- CatBoost
 
 All models were evaluated using consistent preprocessing pipelines to ensure fair comparison.
 
@@ -61,9 +65,10 @@ Because customer churn is a **class-imbalanced problem**, **ROC-AUC** was select
 
 ## Results
 The final selected model achieved:
-- **ROC-AUC > 0.88** on the validation dataset
 
-This result exceeded the project’s quality threshold and demonstrated strong predictive performance, making the model suitable for supporting churn reduction initiatives.
+- **ROC-AUC = 0.939 on the test dataset** (CatBoost)
+
+This result demonstrated strong predictive performance, making the model suitable for supporting churn reduction initiatives.
 
 ---
 
