@@ -110,4 +110,4 @@ jupyter notebook churn_prediction.ipynb
 ## 🧑‍💻 Autor
 
 **Ángel Luis Ayala Guzmán** – Data Scientist | Data Analyst
-🌐 [Portafolio](https://tu-portfolio.com) · [LinkedIn](www.linkedin.com/in/angel-luis-ayala) · ✉️ ayala.luis2102@gmail.com
+🌐 [Portafolio](https://tu-portfolio.com) · [LinkedIn](https://www.linkedin.com/in/angel-luis-ayala) · ✉️ ayala.luis2102@gmail.com
