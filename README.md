@@ -33,7 +33,6 @@ Se desarrolló un pipeline de machine learning para procesar datos, entrenar mod
 | Evaluación | Evaluación y comparación de modelos usando ROC-AUC |
 | Selección final | Elección del mejor modelo (CatBoost) |
 
-
 ---
 
 ## 🤖 Modelos evaluados
@@ -62,11 +61,12 @@ CatBoost
 |--------|------|
 | ROC-AUC | 0.94 |
 
-### 🔍 Insights clave
+## 🔍 Insights clave
 
-- Clientes con contratos mensuales presentan mayor churn  
-- Clientes nuevos tienen mayor probabilidad de cancelar  
-- Menor número de servicios contratados se asocia con mayor riesgo  
+- Los clientes con contratos mensuales presentan mayor probabilidad de churn en comparación con contratos de largo plazo  
+- Los clientes con menor antigüedad tienen mayor riesgo de cancelar el servicio  
+- Un menor número de servicios contratados se asocia con mayor probabilidad de churn  
+- Clientes con cargos mensuales más altos tienden a presentar mayor tasa de cancelación 
 
 ---
 
