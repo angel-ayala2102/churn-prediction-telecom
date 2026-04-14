@@ -89,3 +89,26 @@ Este modelo permite:
 - **CatBoost** – modelo final seleccionado  
 - **Matplotlib** – visualización de datos  
 - **Jupyter Notebook** – entorno de desarrollo
+
+---
+
+## 🚀 Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+git clone https://github.com/TU-USUARIO/TU-REPO.git
+
+2. Instalar dependencias:
+pip install -r requirements.txt
+
+3. Abrir el notebook:
+jupyter notebook churn_prediction.ipynb
+
+4. Ejecutar todas las celdas para reproducir el análisis y los modelos
+
+---
+
+## 🧑‍💻 Autor
+
+Ángel Luis Ayala Guzmán – Data Scientist | Data Analyst
+LinkedIn: www.linkedin.com/in/angel-luis-ayala
+Portafolio:
