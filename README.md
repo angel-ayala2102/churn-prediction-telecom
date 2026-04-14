@@ -95,7 +95,7 @@ Este modelo permite:
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
-git clone https://github.com/TU-USUARIO/TU-REPO.git
+git clone https://github.com/angel-ayala2102/churn-prediction-telecom.git
 
 2. Instalar dependencias:
 pip install -r requirements.txt
@@ -109,6 +109,5 @@ jupyter notebook churn_prediction.ipynb
 
 ## 🧑‍💻 Autor
 
-Ángel Luis Ayala Guzmán – Data Scientist | Data Analyst
-LinkedIn: www.linkedin.com/in/angel-luis-ayala
-Portafolio:
+**Ángel Luis Ayala Guzmán** – Data Scientist | Data Analyst
+🌐 [Portafolio](https://tu-portfolio.com) · [LinkedIn](www.linkedin.com/in/angel-luis-ayala) · ✉️ ayala.luis2102@gmail.com
