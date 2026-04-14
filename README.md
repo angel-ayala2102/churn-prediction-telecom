@@ -86,8 +86,11 @@ Este modelo permite:
 - **Python** – lenguaje principal  
 - **Pandas & NumPy** – procesamiento y manipulación de datos  
 - **Scikit-learn** – modelos base y evaluación  
+- **XGBoost** – modelo de boosting evaluado  
+- **LightGBM** – modelo de boosting evaluado  
 - **CatBoost** – modelo final seleccionado  
 - **Matplotlib** – visualización de datos  
+- **Seaborn** – visualización exploratoria  
 - **Jupyter Notebook** – entorno de desarrollo
 
 ---
@@ -109,5 +112,6 @@ jupyter notebook churn_prediction.ipynb
 
 ## 🧑‍💻 Autor
 
-**Ángel Luis Ayala Guzmán** – Data Scientist | Data Analyst
+**Ángel Luis Ayala Guzmán** – Data Analyst | Aspiring Data Scientist
+
 🌐 [Portafolio](https://tu-portfolio.com) · [LinkedIn](https://www.linkedin.com/in/angel-luis-ayala) · ✉️ ayala.luis2102@gmail.com
