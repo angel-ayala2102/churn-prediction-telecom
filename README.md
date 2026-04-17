@@ -1,6 +1,5 @@
 # 📉 Predicción de Cancelación de Clientes (Churn)
-
-🇪🇸 Español | 🇺🇸 English
+🇲🇽 Español | 🇺🇸 English
 
 ---
 
