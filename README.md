@@ -3,7 +3,7 @@
 
 ---
 
-## 🇪🇸 Español
+## 🇲🇽 Español
 
 Proyecto de machine learning enfocado en predecir la cancelación de clientes en una empresa de telecomunicaciones.  
 El objetivo es identificar clientes con alta probabilidad de churn para apoyar estrategias de retención basadas en datos.
