@@ -243,4 +243,4 @@ jupyter notebook churn_prediction.ipynb
 
 **Ángel Luis Ayala Guzmán** – Data Analyst | Machine Learning & Customer Behavior  
 
-🌐 [Portfolio](https://angel-ayala-portfolio.my.canva.site/) · [LinkedIn](https://www.linkedin.com/in/angel-luis-ayala) · ✉️ ayala.luis2102@gmail.com
+🌐 [Portfolio](https://angel-ayala-portfolio.my.canva.site/) · [LinkedIn](https://www.linkedin.com/in/angel-luis-ayala) · ✉️ angelluisayala21@gmail.com
